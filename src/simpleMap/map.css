@@ -1,0 +1,9 @@
+.leaflet-map {
+    height: 300px;
+    width: 100%;
+}
+  
+.map-pane {
+  height: 100%;
+  width: 100%;
+}
